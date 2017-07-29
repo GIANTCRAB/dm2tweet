@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/GIANTCRAB/dm2tweet/issues"
   },
-  "homepage": "https://github.com/GIANTCRAB/dm2tweet#readme"
+  "homepage": "https://github.com/GIANTCRAB/dm2tweet#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "twit": "^2.2.9"
+  }
 }
