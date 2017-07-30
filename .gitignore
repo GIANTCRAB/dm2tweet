@@ -1,2 +1,4 @@
 node_modules/
 .idea/
+.env
+dm2tweet.sqlite3
